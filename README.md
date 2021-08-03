@@ -1,3 +1,3 @@
 # Test03
 a:modify
-b:modify
+b:modify 1
